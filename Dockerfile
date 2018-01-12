@@ -14,4 +14,4 @@ RUN apt-get clean
 
 WORKDIR /fs
 
-ADD ./fs.tar.bz /fs/
+ADD ./fs.tar.gz /fs/
